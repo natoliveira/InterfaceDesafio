@@ -49,8 +49,19 @@ p.btn-3{
      position: absolute;
  }
 
+ .btn-6{
+     margin-left: 500px;
+ }
+
  @media screen and (max-width: 768px) {
      elemento {
          background: url("img/simbolo.jpeg");
      }
  }
+
+ .py-5{
+     color: black;
+     margin-left: 800px;
+     margin-top: 300px;
+     position: absolute;
+     }
